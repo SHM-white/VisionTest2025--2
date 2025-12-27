@@ -1,5 +1,3 @@
-# VisionTest2025--2
-[Readme.md](https://github.com/user-attachments/files/24354203/Readme.md)
 # 哨兵机器人控制系统
 
 ## 背景
